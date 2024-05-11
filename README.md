@@ -1,4 +1,4 @@
-# weg_gh_pages_test
+# web_gh_pages_test
 
 A new Flutter project.
 
